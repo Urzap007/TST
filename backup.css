@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Marck Script', sans-serif;
+  font-size: 400%;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2rem;
+}
+
+.skill-row-2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.pp {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.plane {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.nerd {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: skyblue;
+  padding-top: 100px
+  width:30%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.middle-container {
+  background-color: deepskyblue;
+}
+
+.bottom-container {
+  background-color: deepskyblue;
+}
